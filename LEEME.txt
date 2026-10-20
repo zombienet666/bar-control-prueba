@@ -1,0 +1,10 @@
+BAR CONTROL PWA PARA IPHONE - PRUEBA
+
+1. Crear repositorio público en GitHub (por ejemplo bar-control-prueba).
+2. Subir TODOS los archivos de esta carpeta a la raíz del repositorio, incluido index.html, sw.js, manifest.webmanifest y los iconos.
+3. Settings > Pages > Build and deployment > Deploy from a branch > main / (root) > Save.
+4. Esperar publicación y abrir https://TU-USUARIO.github.io/bar-control-prueba/ en Safari del iPhone con internet.
+5. Compartir > Agregar a pantalla de inicio > Abrir como app > Agregar.
+6. Abrir una vez con internet, luego activar modo avión y comprobar la carga.
+
+ADVERTENCIAS: Prototipo con datos locales de Safari/PWA; no sincroniza entre teléfonos. No usar datos reales sensibles ni como caja productiva. Exportar respaldos periódicos. GitHub Pages público publica el código, no sube automáticamente datos guardados en el teléfono. No hay permisos seguros de servidor. No borrar datos de Safari ni desinstalar la app sin respaldo.
